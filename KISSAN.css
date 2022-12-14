@@ -1,0 +1,388 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.top{
+    width: 1519px;
+    height: 71px;
+    background-color: white;
+   
+    
+   
+}
+.kissanlogo{
+    position: relative;
+    top: 11px;
+    left: 208px;
+    width: 100px;
+    height: 49px;
+    cursor: pointer;
+}
+.navlist{
+    position: relative;
+    top: -26px;
+    margin-left: 300px;
+}
+.list1{
+    font-size: 20px;
+    margin-left: 58px;
+    background-color: white;
+    border-width: 0px;
+    font-family:sans-serif;
+    color: #555555;
+    font-weight: 700;
+    opacity: 0.5;
+transition: .5s;
+}
+.buy{
+    color: red;
+    font-size: 20px;
+    position: relative;
+    top: -51px;
+    margin-left: 976px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.line{
+    width: 1519px;
+    height: 4px;
+    background-color: red;
+}
+.search-container{
+    margin-left: 1105px;
+    margin-top: -74px;
+   
+}
+.bannerdiv{
+    width: 1519px;
+    height: 669px;
+   
+}
+.banner{
+ width: 1519px;
+height: 669px;
+}
+.story{
+    width: 1519px;
+    height: 135px;
+    cursor: pointer;
+   
+}
+.storytitle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    position: relative;
+    top: 44px;
+    margin-left: 622px;
+color: #555555;
+cursor: pointer;
+}
+.storycontent{
+    width: 1519px;
+    height: 135px;
+}
+.pachcha{
+    width: 1519px;
+    height: 501px;
+}
+.storytext{
+    width: 1030px;
+    height: 280px;
+    position: relative;
+    margin-left: 227px;
+    margin-top: -443px
+    cursor: pointer;
+}
+.white{
+    width: 998px;
+    height: 163px;
+    position: relative;
+    margin-left: 0px;
+    top: -342px;
+    opacity: .8;
+}
+.history{
+    position: relative;
+    margin-left: 0px;
+    top: -484px;
+    font-size: 21px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #555555;
+    cursor: pointer;
+}
+.storybutton{
+    background-color: red;
+    color: white;
+    height: 52px;
+    width: 202px;
+    position: relative;
+    top:-410px;
+    margin-left: 387px;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 0ch;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0.5;
+transition: .5s;
+}
+.headrecipes{
+    width: 1519px;
+    height: 135px;
+    margin-top: 365px;
+    cursor: pointer;
+}
+.recipetext{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    position: relative;
+    top: 44px;
+    margin-left: 622px;
+color: #555555;
+cursor: pointer;
+}
+.items{
+    width: 1519px;
+    height: 435px;
+    cursor: pointer;
+   
+}
+.back{
+    width: 1519px;
+    height: 435px;
+}
+
+
+
+
+
+.card1{
+    width: 1518px;
+    height: 277px;
+    position: relative;
+    margin-left: 0px;
+    top: -380px;
+
+}
+.itempic{
+    width: 222px;
+    height: 254px;
+    position: relative;
+    left: 114px;
+    margin-left: 72px;
+    top: -21px;
+    cursor: pointer;}
+.itembutton1{
+    background-color: red;
+    color: white;
+    height: 52px;
+    width: 221px;
+    position: relative;
+    top: -24px;
+    left: 95px;
+    margin-left: 105px;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 0ch;
+    font-size: 14px;
+    cursor: pointer;
+    opacity: 0.5;
+transition: .5s;
+    }
+    .itembutton2{
+        background-color: red;
+        color: white;
+        height: 52px;
+        width: 221px;
+        position: relative;
+        top: -23px;
+    left: 62px;
+        margin-left: 105px;
+        font-weight: 900;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        border: 0ch;
+        font-size: 14px;
+        cursor: pointer;
+        opacity: 0.5;
+transition: .5s;
+        }
+ .itembutton3{
+            background-color: red;
+            color: white;
+            height: 52px;
+            width: 221px;
+            position: relative;
+            top: -23px;
+            left: 31px;
+            margin-left: 105px;
+            font-weight: 900;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            border: 0ch;
+            font-size: 14px;
+            cursor: pointer;
+            opacity: 0.5;
+transition: .5s;
+            }
+            .itembutton4{
+                background-color: red;
+                color: white;
+                height: 52px;
+                width: 221px;
+                position: relative;
+                top: -23px;
+                left: -1px;
+                margin-left: 105px;
+                font-weight: 900;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                border: 0ch;
+                font-size: 14px;
+                cursor: pointer;
+                opacity: 0.5;
+transition: .5s;
+                }
+                .itembutton5{
+                    background-color: red;
+                    color: white;
+                    height: 52px;
+                    width: 221px;
+                    position: relative;
+                    top: -8px;
+                    margin-left: 640px;
+                    font-weight: 900;
+                    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                    border: 0ch;
+                    font-size: 20px;
+                    cursor: pointer;
+                    opacity: 0.5;
+transition: .5s;
+                    }  
+.footer1{
+    height: 123px;
+    background-color: #f2f4f6;
+    margin-top: -277px;
+}   
+.fhead{
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #555555;
+    position: relative;
+    top: 22px;
+    margin-left: 210px;
+}   
+.flogo{
+    width: 258px;
+    height: 85px;
+    position: relative;
+    margin-left: 193px;
+    top: 17px;
+}                          
+.site{
+    font-size: 16px;
+    margin-left: 1125px;
+    font-family: sans-serif;
+    color: #555555;
+    /* font-weight: 700; */
+    position: relative;
+    top: -50px;
+    cursor: pointer;
+    opacity: 0.5;
+transition: .5s;
+}
+.faq{
+    font-size: 16px;
+    margin-left: 1206px;
+    font-family: sans-serif;
+    color: #555555;
+    position: relative;
+    top: -68px;
+    cursor: pointer;
+    opacity: 0.5;
+transition: .5s;
+}
+.about{
+    font-size: 16px;
+  margin-left: 1265px;
+    font-family: sans-serif;
+    color: #555555;
+    position: relative;
+    top: -86px;
+    cursor: pointer;
+    opacity: 0.5;
+transition: .5s;
+}
+.footer2{
+    height: 95px;
+    margin-top: 1px;
+    }   
+.footer2inf{
+    font-size: 14px;
+    margin-left: 203px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    color: #555555;
+    cursor: pointer;
+    opacity: 0.5;
+transition: .5s;
+} 
+.footer2last{
+    font-size: 14px;
+    margin-left: 105px;
+    margin-top: 7px;
+    font-family: sans-serif;
+    color: #555555;
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    left: 635px;
+    top: -19px;
+    cursor: pointer;
+    opacity: 0.5;
+transition: .5s;
+}   
+.uni{
+    height: 43px;
+    width: 50px;
+    position: relative;
+    top: -45px;
+    margin-left: 1419px;
+}
+.list1:hover{
+opacity:1;
+}
+.itembutton1:hover{
+    opacity:1;
+    }
+.itembutton2:hover{
+    opacity:1;
+    }
+.itembutton3:hover{
+    opacity:1;
+    }
+.itembutton4:hover{
+    opacity:1;
+    }
+.itembutton5:hover{
+    opacity:1;
+    }
+.site:hover{
+    opacity:1;
+    }
+.faq:hover{
+    opacity:1;
+    }
+.about:hover{
+    opacity:1;
+    }
+.footer2inf:hover{
+    opacity:1;
+    }
+.footer2last:hover{
+    opacity:1;
+    }
+.storybutton:hover{
+    opacity:1;
+    }                                    
